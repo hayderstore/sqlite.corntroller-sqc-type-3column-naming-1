@@ -1,0 +1,40 @@
+Q\how I can use SQC fanctions
+1 - "add class"
+"a" => Add New Skill
+"c" => Add New Table
+"acd" => Add Data for one column
+2 - "delete class"
+"d" => Delete A Skill
+"da" => Delete All Skills
+"dcd" => Delete data in column
+"dcda" => Delete All data in column
+"dt" => Delete A Table
+"dta" => Delete All Tables
+3 - "show class"
+"s" => Show All of selected user_id(id) Skills
+"sa" => Show All Skills
+"sca" => Show All Columns
+"st" => Show All Tables
+4 - "update class"
+"ui" => Update Skill user_id(id)
+"up" => Update Skill progress
+"un" => Update Skill name
+5 - "rename class"
+"rc" => Rename A column
+"rt" => Rename A Table
+6 - "version and more (command)"
+"v" => THE Versions and more
+7 - "quit (command)"
+"q" => Quit the App
+8 - "notes (tips)"
+note: if you close the app you never lost any data.
+note: if you add data but you use adding finctions of (sqlite) not 'SQC' you can use that data by saving the file
+note: in some times the app never use DB to solve this big error you have one way is close the app to connect again to DB file.to check if
+error happen enter this command 'ce_db'.
+
+Q\How many orders in SQC
+their was 22 orders(fanctions) in SQC.
+Q|what is ce_db command in SQC
+it is a command chack if you have this error it was at some times the app never use DB. to solve this big error you have one way is close the app to connect again to DB file.
+to check if error happen enter this command 'ce_db'.
+the end
